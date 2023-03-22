@@ -1,0 +1,7 @@
+
+git init
+
+git commit -m "transfer"
+git branch -M master
+git remote add origin https://github.com/Fire-Hawks-Amplifire-Revature/Project-1.git
+git push -u origin master
